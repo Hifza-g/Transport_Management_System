@@ -1,0 +1,14 @@
+# IDE / system
+.idea/
+.vscode/
+*.iml
+
+# Node / build / logs (if any)
+node_modules/
+dist/
+build/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
